@@ -1,0 +1,14 @@
+C:\Users\hrist\source\repos\25.AssociativeArraysExercise-31.10.23\01.CountCharsInAString\bin\Debug\net6.0\01.CountCharsInAString.exe
+C:\Users\hrist\source\repos\25.AssociativeArraysExercise-31.10.23\01.CountCharsInAString\bin\Debug\net6.0\01.CountCharsInAString.deps.json
+C:\Users\hrist\source\repos\25.AssociativeArraysExercise-31.10.23\01.CountCharsInAString\bin\Debug\net6.0\01.CountCharsInAString.runtimeconfig.json
+C:\Users\hrist\source\repos\25.AssociativeArraysExercise-31.10.23\01.CountCharsInAString\bin\Debug\net6.0\01.CountCharsInAString.dll
+C:\Users\hrist\source\repos\25.AssociativeArraysExercise-31.10.23\01.CountCharsInAString\bin\Debug\net6.0\01.CountCharsInAString.pdb
+C:\Users\hrist\source\repos\25.AssociativeArraysExercise-31.10.23\01.CountCharsInAString\obj\Debug\net6.0\01.CountCharsInAString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrist\source\repos\25.AssociativeArraysExercise-31.10.23\01.CountCharsInAString\obj\Debug\net6.0\01.CountCharsInAString.AssemblyInfoInputs.cache
+C:\Users\hrist\source\repos\25.AssociativeArraysExercise-31.10.23\01.CountCharsInAString\obj\Debug\net6.0\01.CountCharsInAString.AssemblyInfo.cs
+C:\Users\hrist\source\repos\25.AssociativeArraysExercise-31.10.23\01.CountCharsInAString\obj\Debug\net6.0\01.CountCharsInAString.csproj.CoreCompileInputs.cache
+C:\Users\hrist\source\repos\25.AssociativeArraysExercise-31.10.23\01.CountCharsInAString\obj\Debug\net6.0\01.CountCharsInAString.dll
+C:\Users\hrist\source\repos\25.AssociativeArraysExercise-31.10.23\01.CountCharsInAString\obj\Debug\net6.0\refint\01.CountCharsInAString.dll
+C:\Users\hrist\source\repos\25.AssociativeArraysExercise-31.10.23\01.CountCharsInAString\obj\Debug\net6.0\01.CountCharsInAString.pdb
+C:\Users\hrist\source\repos\25.AssociativeArraysExercise-31.10.23\01.CountCharsInAString\obj\Debug\net6.0\01.CountCharsInAString.genruntimeconfig.cache
+C:\Users\hrist\source\repos\25.AssociativeArraysExercise-31.10.23\01.CountCharsInAString\obj\Debug\net6.0\ref\01.CountCharsInAString.dll
